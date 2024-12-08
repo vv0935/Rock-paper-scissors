@@ -45,7 +45,8 @@ A classic Tic Tac Toe game built with JavaScript, HTML, and CSS. This project of
 
 ## Screenshots
 
-![Game Board](screenshots/game_board.png)
+![image](https://github.com/user-attachments/assets/ed516217-60ca-4d12-983c-09d5fdfc974c)
+
 
 ---
 
